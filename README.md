@@ -1,2 +1,2 @@
 # iGraphics-snake-game
-!(demo game paly)[snake.gif]
+![demo game paly](snake.gif)
